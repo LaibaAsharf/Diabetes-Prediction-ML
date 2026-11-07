@@ -36,6 +36,12 @@ This project predicts the likelihood of diabetes using Machine Learning. It uses
    ```bash
    streamlit run app.py
    ```
+## Screenshots
 
+### Application Interface
+![Diabetes Prediction App](Screenshot%202026-10-11%20161212.png)
+
+### Prediction Result
+![Prediction Output](Screenshot%202026-10-11%20161407.png)
 ## Disclaimer
 This project is developed for educational purposes only. Its predictions are not a substitute for professional medical advice.
